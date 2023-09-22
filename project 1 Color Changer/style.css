@@ -1,0 +1,40 @@
+html {
+  margin: 0;
+}
+
+span {
+  display: block;
+}
+
+.canvas {
+  margin: 100px auto 100px;
+  width: 80%;
+  text-align: center;
+}
+
+.button {
+  width: 100px;
+  height: 100px;
+  border: solid black 2px;
+  display: inline-block;
+}
+
+#grey {
+  background: rgb(151, 130, 130);
+}
+
+#white {
+  background: rgb(247, 247, 247);
+}
+
+#blue {
+  background: rgb(74, 74, 192);
+}
+
+#yellow {
+  background: rgb(229, 229, 96);
+}
+
+#purple {
+  background: rgb(188, 45, 188);
+}
